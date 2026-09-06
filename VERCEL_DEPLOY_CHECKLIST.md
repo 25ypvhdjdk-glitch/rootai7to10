@@ -1,4 +1,4 @@
-# ROOT 7¹⁰ v5.2.1 — Vercel Deployment Checklist
+# ROOT 7¹⁰ v5.2.5 — Vercel Deployment Checklist
 
 ## Project
 - Framework: Next.js
